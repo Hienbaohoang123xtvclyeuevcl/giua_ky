@@ -1,0 +1,25 @@
+name: giua_ky
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  firebase_database: ^11.1.4
+  firebase_storage: ^12.3.3
+  cloud_firestore: ^5.4.4  # Adjust to the latest compatible version
+  image_picker: ^1.1.2  # Adjust to the latest compatible version
+  uuid: ^3.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

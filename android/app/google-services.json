@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657818635433",
+    "project_id": "giua-ky-bc06f",
+    "storage_bucket": "giua-ky-bc06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657818635433:android:ae0dae5dfd7a220f202db8",
+        "android_client_info": {
+          "package_name": "com.example.giua_ky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2j3UclnwycDWycmCRH2Q9O3w3QyCs2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
